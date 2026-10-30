@@ -14,7 +14,7 @@
   "endOfLine": "lf",
   "ignorePatterns": ["node_modules", "dist", "build", "coverage", ".git", ".next"],
   "sortTailwindcss": {
-    "stylesheet": "./src/index.css",
+    "stylesheet": "./src/styles/index.css",
     "functions": ["clsx", "cn"],
     "preserveWhitespace": true
   },
